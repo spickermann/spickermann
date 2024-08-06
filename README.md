@@ -10,6 +10,6 @@ My focus is on building reliable, future-proof systems, and I have experience ma
 
 I follow agile methodologies and value collaboration. I view planning and whiteboarding sessions as opportunities to share knowledge and build trust with the team through honest retrospectives in a safe environment.
 
-In addition to my technical skills, I have a passion for mentorship and enjoy coaching and training junior developers. I am active in the Ruby community, a maintainer of open source projects, and a top contributor on Stack Overflow with over 2,000 answered Ruby and Rails questions. 
+In addition to my technical skills, I have a passion for mentorship and enjoy coaching and training junior developers. I am active in the Ruby community, a maintainer of open source projects, and a top contributor on Stack Overflow with over 3,000 answered Ruby and Rails questions. 
 
 [Homepage](http://www.spickermann.com/)
