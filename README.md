@@ -2,7 +2,7 @@
 
 Senior Software Engineer – Technical Leader – Principal Engineer
 
-As a Senior Software Engineer with 16+ years of experience in Ruby on Rails web development and scaling, I bring a wealth of technical expertise to the table. My hands-on and collaborative leadership style has proven effective in managing projects and teams for more than 12 years.
+As a Senior Software Engineer with 18 years of experience in Ruby on Rails web development and scaling, I bring a wealth of technical expertise to the table. My hands-on and collaborative leadership style has proven effective in managing projects and teams for more than 12 years.
 
 I have a strong track record in fast-paced startups, working closely with the CTO and across multiple R&D teams. Self-driven and responsible, I excel at taking ownership of the technical vision and roadmap. I am experienced in working autonomously, with full accountability for complex projects and applications.
 
