@@ -12,4 +12,4 @@ I follow agile methodologies and value collaboration. I view planning and whiteb
 
 In addition to my technical skills, I have a passion for mentorship and enjoy coaching and training junior developers. I am active in the Ruby community, a maintainer of open source projects, and a top contributor on Stack Overflow with over 3,000 answered Ruby and Rails questions. 
 
-[Homepage](http://www.spickermann.com/)
+[Homepage](https://www.spickermann.com/)
